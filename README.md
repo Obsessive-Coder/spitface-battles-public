@@ -1,7 +1,7 @@
 # Spitface-Battles
 
 ## **[Live Preview (bugs exist)](http://www.spitfacebattles.com)**
-Please understand that there is not much styling, and until recently I have been working on this myself so there are still some empty pages. This project has recently moved to a private repository. Code examples are available upon request by emailing Jared Huffstutler at jaredhuff85@gmail.com.
+This project has recently moved to a private repository. Code examples are available upon request by emailing Jared Huffstutler at jaredhuff85@gmail.com.
 
 Spitface Battles is a platform for fans of the underground hip-hop community. Users can challenge other users to rap battles, have their verse liked, dissed, and even scored by their peers. The site handles battle progression and rules so the users can focus on interacting and competing with each other.
 
