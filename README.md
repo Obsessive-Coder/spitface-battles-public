@@ -17,3 +17,6 @@ Spitface Battles uses ReactJs, and accesses a Node and ExpressJS API that is hos
 
 ### The Main Sidebar Navigation and Menu
 <img src="https://github.com/Obsessive-Coder/Spitface-Battles-Public/blob/master/screenshots/Sidebar.PNG?raw=true" />
+
+### The Profile Page
+<img src="https://github.com/Obsessive-Coder/Spitface-Battles-Public/blob/master/screenshots/ProfilePage.PNG?raw=true" />
