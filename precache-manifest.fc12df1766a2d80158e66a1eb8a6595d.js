@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cdde2820ff699f87a7c6",
+    "revision": "2031154bfd1f0659a746",
     "url": "/static/css/main.53cf25de.chunk.css"
   },
   {
-    "revision": "cdde2820ff699f87a7c6",
-    "url": "/static/js/main.fd0126e2.chunk.js"
+    "revision": "2031154bfd1f0659a746",
+    "url": "/static/js/main.980e5da3.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/youtube_social_square_red.1f145247.png"
   },
   {
-    "revision": "472e0cf5e2dfb6924a3f447a7d1ef7af",
+    "revision": "a2e60aca6ad455229548d839474c2431",
     "url": "/index.html"
   }
 ];
